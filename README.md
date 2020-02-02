@@ -9,3 +9,6 @@ Spring相关模块的UML
 ## jersey
 ## design
 常见设计模式的uml
+## alibaba
+alibaba常用库的uml图
+
